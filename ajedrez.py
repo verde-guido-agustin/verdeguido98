@@ -1,7 +1,7 @@
 FILAS = 8
 COLUMNAS = 8
 
-CHAU="9"
+
 
 CASILLERO_VACIO = "_"
 REINA_BLANCA = "R"
