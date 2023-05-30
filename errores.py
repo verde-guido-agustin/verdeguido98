@@ -1,4 +1,5 @@
 edad = None
+peso = 10
 while edad == None:
     try:
         edad = int(input("Ingrese su edad: "))
